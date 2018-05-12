@@ -15,16 +15,16 @@ p {
   line-height: 2rem;
 }
 
-  @media only screen and (max-width : 992px) {
-
-      padding-left: 300px;
-
+head, body, footer {
+    padding-left: 300px;
   }
+
 
 .parallax-container {
   min-height: 380px;
   line-height: 0;
   height: auto;
+  padding-left: 300px;
   color: rgba(255,255,255,.9);
 }
   .parallax-container .section {
@@ -33,16 +33,19 @@ p {
 
 @media only screen and (max-width : 992px) {
   .parallax-container .section {
+  padding-left: 300px;
     position: absolute;
     top: 40%;
   }
   #index-banner .section {
+  padding-left: 300px;
     top: 10%;
   }
 }
 
 @media only screen and (max-width : 600px) {
   #index-banner .section {
+  padding-left: 300px;
     top: 0;
   }
 }
@@ -55,5 +58,6 @@ p {
 }
 
 footer.page-footer {
+padding-left: 300px;
   margin: 0;
 }
