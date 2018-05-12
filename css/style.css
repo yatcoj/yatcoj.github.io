@@ -15,9 +15,9 @@ p {
   line-height: 2rem;
 }
 
-/*head, body, footer {
+head, body, footer {
     padding-left: 300px;
-  }*/
+  }
 
 
 .parallax-container {
