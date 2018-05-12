@@ -17,8 +17,11 @@ p {
 
 head, body, footer {
     padding-left: 300px;
-  }
+}
 
+.sidenav-fixed{
+    width: 200px;
+}
 
 .parallax-container {
   min-height: 380px;
