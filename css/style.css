@@ -24,7 +24,6 @@ head, body, footer {
   min-height: 380px;
   line-height: 0;
   height: auto;
-  padding-left: 300px;
   color: rgba(255,255,255,.9);
 }
   .parallax-container .section {
@@ -33,19 +32,16 @@ head, body, footer {
 
 @media only screen and (max-width : 992px) {
   .parallax-container .section {
-  padding-left: 300px;
     position: absolute;
     top: 40%;
   }
   #index-banner .section {
-  padding-left: 300px;
     top: 10%;
   }
 }
 
 @media only screen and (max-width : 600px) {
   #index-banner .section {
-  padding-left: 300px;
     top: 0;
   }
 }
@@ -58,6 +54,5 @@ head, body, footer {
 }
 
 footer.page-footer {
-padding-left: 300px;
   margin: 0;
 }
