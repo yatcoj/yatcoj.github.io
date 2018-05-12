@@ -15,13 +15,13 @@ p {
   line-height: 2rem;
 }
 
-header, main, footer {
+head, body, footer {
     padding-left: 300px;
   }
 
   @media only screen and (max-width : 992px) {
-    header, main, footer {
-      padding-left: 0;
+    head, body, footer {
+      padding-left: 300px;
     }
   }
 
