@@ -1,2 +1,2 @@
 # yatcoj.github.io
-Personal Website
+Personal Website designed using an existing template.
