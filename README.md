@@ -1,2 +1,4 @@
 # yatcoj.github.io
-Personal Website designed using an existing template.
+Personal Website using materialize framework for the front page.
+
+Still a work in progress!
